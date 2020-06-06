@@ -1,6 +1,0 @@
-# HTTP Server
-postgres:
-  user: postgres
-  password: admin12345
-  url: jdbc:postgresql://localhost:5432/atqsales
-  driver: org.postgresql.Driver
