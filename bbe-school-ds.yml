@@ -1,0 +1,6 @@
+# HTTP Server
+postgres:
+  user: postgres
+  password: admin12345
+  url: jdbc:postgresql://localhost:5432/school-app-schema
+  driver: org.postgresql.Driver
